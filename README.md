@@ -1,8 +1,8 @@
 ### Gilded Rose
 These are the instructions we were given for this assignment
-<br><br>
+
 ---
-<br><br>
+
 
 This homework is different from, but was inspired by this refactoring exercise:
 https://github.com/emilybache/GildedRose-Refactoring-Kata
